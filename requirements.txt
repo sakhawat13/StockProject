@@ -63,7 +63,7 @@ pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
 pyrsistent @ file:///C:/ci/pyrsistent_1636093225342/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2022.1
-#pywin32==302
+pywin32==302
 pywinpty @ file:///C:/ci_310/pywinpty_1644230983541/work/target/wheels/pywinpty-2.0.2-cp39-none-win_amd64.whl
 pyzmq @ file:///C:/ci/pyzmq_1638435148211/work
 requests==2.27.1
@@ -75,7 +75,7 @@ sklearn==0.0
 sniffio==1.2.0
 soupsieve @ file:///tmp/build/80754af9/soupsieve_1636706018808/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-#terminado @ file:///C:/ci/terminado_1644322780199/work
+terminado @ file:///C:/ci/terminado_1644322780199/work
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
 threadpoolctl==3.1.0
 tinycss2==1.1.1
